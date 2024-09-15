@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "253897407965",
+    "firebase_url": "https://flutterprojects-3d7c5-default-rtdb.firebaseio.com",
+    "project_id": "flutterprojects-3d7c5",
+    "storage_bucket": "flutterprojects-3d7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897407965:android:8a5a67b729f6c960374a34",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN4uVusqwxCnyXmBcbsMrvNhooAanXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897407965:android:b5796d6d44240ce3374a34",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN4uVusqwxCnyXmBcbsMrvNhooAanXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897407965:android:c89cd84f9ceb98b3374a34",
+        "android_client_info": {
+          "package_name": "com.example.firebase_concepts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN4uVusqwxCnyXmBcbsMrvNhooAanXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897407965:android:990d6501953a9e89374a34",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN4uVusqwxCnyXmBcbsMrvNhooAanXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253897407965:android:0d73b470d4c28a7f374a34",
+        "android_client_info": {
+          "package_name": "com.example.pizza_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN4uVusqwxCnyXmBcbsMrvNhooAanXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
